@@ -82,13 +82,13 @@ def exercicio5():
         
 
 if __name__ == "__main__":
-    # exercicio_1()
-    # print('-'*100)
-    # exercicio_2()
-    # print('-'*100)
-    # exercicio3()
-    # print('-'*100)
-    # exercicio4()
-    # print('-'*100)
+    exercicio_1()
+    print('-'*100)
+    exercicio_2()
+    print('-'*100)
+    exercicio3()
+    print('-'*100)
+    exercicio4()
+    print('-'*100)
     exercicio5()
     
