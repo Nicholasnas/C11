@@ -31,8 +31,8 @@ def atividade2():
 def atividade3():
     # Missoes lancadas pelo os EUA
     local = df[1:, 2]
+    print(local)
     missoes_eua = np.sum(np.char.find(local, "USA") >= 0)
-
     print(f"Quantidade de missoes lancadas nos USA: {missoes_eua}")
 
 
